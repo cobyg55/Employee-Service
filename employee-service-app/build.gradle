@@ -1,0 +1,9 @@
+dependencies {
+    implementation project(':employee-service-common')
+    implementation project(':employee-service-client')
+    implementation project(':employee-service-core')
+    implementation project(':employee-service-domain')
+    implementation project(':employee-service-schema')
+    implementation project(':employee-service-api')
+    implementation 'org.springframework.boot:spring-boot-starter-jetty'
+}

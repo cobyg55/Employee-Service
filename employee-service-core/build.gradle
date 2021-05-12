@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(':employee-service-domain')
+    implementation project(':employee-service-common')
+    implementation 'org.springframework:spring-context'
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
+}

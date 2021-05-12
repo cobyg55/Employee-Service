@@ -1,0 +1,9 @@
+rootProject.name = 'faceId-faceIds'
+include 'employee-service-core'
+include 'employee-service-api'
+include 'employee-service-app'
+include 'employee-service-domain'
+include 'employee-service-common'
+include 'employee-service-schema'
+include 'employee-service-client'
+
